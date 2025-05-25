@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "433739528333",
+    "project_id": "nutriyemek-ad21f",
+    "storage_bucket": "nutriyemek-ad21f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433739528333:android:c78c6e1483cf2278fe8ac4",
+        "android_client_info": {
+          "package_name": "com.example.nutri_yemek"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhovBEdcWUMHBbhok5H9FWGCni0M0423U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

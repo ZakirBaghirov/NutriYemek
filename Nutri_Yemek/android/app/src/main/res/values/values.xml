@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">YOUR_WEB_CLIENT_ID</string>
+    <string name="firebase_database_url" translatable="false">https://nutriyemek-ad21f.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">433739528333</string>
+    <string name="google_api_key" translatable="false">AIzaSyAhovBEdcWUMHBbhok5H9FWGCni0M0423U</string>
+    <string name="google_app_id" translatable="false">1:433739528333:android:c78c6e1483cf2278fe8ac4</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAhovBEdcWUMHBbhok5H9FWGCni0M0423U</string>
+    <string name="project_id" translatable="false">nutriyemek-ad21f</string>
+</resources>
