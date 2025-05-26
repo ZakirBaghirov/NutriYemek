@@ -98,17 +98,6 @@ Make sure the following tools are installed on your machine:
 
 ---
 
-## 📸 Screenshots (Optional)
-
-You can add screenshots of:
-- Login page
-- Filter selection
-- Admin panel
-- Food list
-- Cart & Profile screens
-
----
-
 ## 🤝 Contribution
 
 Contributions are welcome! To contribute:
